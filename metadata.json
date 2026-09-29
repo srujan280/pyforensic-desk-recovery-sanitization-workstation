@@ -1,0 +1,6 @@
+{
+  "name": "PyForensic Desk - Recovery & Sanitization Workstation",
+  "description": "Desktop forensic data recovery and NIST SP 800-88 secure sanitization suite with AI assistant, Sleuth Kit & Foremost carving, SHA-256 integrity, SQLite logging, and ReportLab audit certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

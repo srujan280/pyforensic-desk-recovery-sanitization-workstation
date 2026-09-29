@@ -1,0 +1,9 @@
+# Python Application Requirements for PyForensic Desk
+# Install with: pip install -r requirements.txt
+
+PyQt6>=6.6.0
+reportlab>=4.0.0
+google-genai>=2.4.0
+pydantic>=2.0.0
+cryptography>=41.0.0
+requests>=2.31.0
